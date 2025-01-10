@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build directories
+dist/
+build/
+
+# Environemnt Variables 
+.env
