@@ -1,4 +1,4 @@
-# Find & Fund
+# Find & Fund  
 
 Find & Fund is a comprehensive platform designed to connect users with funding opportunities for their projects and initiatives. Our platform streamlines the process of discovering, tracking, and applying for funding opportunities, making it easier for innovators and creators to bring their ideas to life.
 
